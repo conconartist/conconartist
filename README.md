@@ -2,6 +2,8 @@
 
 I'm a front end software engineer who loves to create with beauty and function in mind. I am a professional musician, I sew and make my own clothes because I long for a sustainable future of slow fashion and reduced waste living, and I've recently discovered a love for coding! 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conconartist&langs_count=10)](https://github.com/conconartist/github-readme-stats)
+
 [![Conconartist's GitHub stats](https://github-readme-stats.vercel.app/api?username=conconartist&show_icons=true&theme=dracula)](https://github.com/conconartist/github-readme-stats)
 <!--
 **conconartist/conconartist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
