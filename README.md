@@ -7,6 +7,16 @@ I'm a front end software engineer who loves to create with beauty and function i
 
 
 [![Conconartist's GitHub stats](https://github-readme-stats.vercel.app/api?username=conconartist&show_icons=true&theme=dracula)](https://github.com/conconartist/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=conconartist&show_icons=true&locale=en&layout=compact" alt="conconartist" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/conconartist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="conconartist" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/connie-h-hong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="connie-h-hong" height="30" width="40" /></a>
+</p>
+
+
 <!--
 **conconartist/conconartist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
