@@ -1,6 +1,6 @@
 ### Hello! I'm Connie. 👋
 
-I'm a software dev who loves to create with beauty and function in mind. I am a professional musician, I long for a sustainable future of slow fashion and reduced-waste living, and I love to code! 
+I'm a software developer who loves to create with beauty and function in mind. I am a professional musician, I long for a sustainable future of slow fashion and reduced-waste living, and I love to code! I'm excited about the current super secret project I'm working on that encompasses everything I enjoy: sewing, curating, designing, and coding.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -17,7 +17,6 @@ I'm a software dev who loves to create with beauty and function in mind. I am a 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
